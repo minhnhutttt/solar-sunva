@@ -26,7 +26,7 @@ export default function HomeAbout() {
               <br />
               「SOLAR SUNVA（ソーラーサンバ）」
             </div>
-            <div className="mt-8 text-[12px] leading-relaxed max-md:text-center md:ml-[10%] md:mt-[10.5%] md:text-[14px] lg:text-[18px]">
+            <div className="mt-8 text-[12px] leading-relaxed max-md:text-center md:ml-[10%] md:mt-[10.5%] md:text-[14px] lg:text-[18px] text-[#e5e5e5]">
               ワールドスキャンプロジェクトは、近年設置数が増加した太陽光パネルの汚れに着目し、パネルの上を掃除するロボットを開発しました。
               <br />
               太陽光パネルに付着している鳥の糞や花粉、落葉や土などのこびりついた汚れを洗い落とすことで、発電効率の改善が期待されます。
